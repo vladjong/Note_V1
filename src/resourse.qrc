@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icon/bold.bmp</file>
+        <file>icon/close.bmp</file>
+        <file>icon/copy.bmp</file>
+        <file>icon/edit.bmp</file>
+        <file>icon/italics.bmp</file>
+        <file>icon/new_file.bmp</file>
+        <file>icon/paste.bmp</file>
+        <file>icon/redo.bmp</file>
+        <file>icon/save.bmp</file>
+        <file>icon/under.bmp</file>
+        <file>icon/upload.bmp</file>
+        <file>icon/clear.bmp</file>
+    </qresource>
+</RCC>
